@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Shop Admin",
+        "email": "admin@barbershop.test",
+        "phone": "09170000000",
+        "password": "<bcrypt-hash-generated-by-Hash::make>",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Juan Dela Cruz",
+        "email": "juan@example.com",
+        "phone": "09171234567",
+        "password": "<bcrypt-hash-generated-by-Hash::make>",
+        "role": "customer"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "ref": "BB-DEMO-0001",
+        "uid": 2,
+        "name": "Juan Dela Cruz",
+        "phone": "09171234567",
+        "notes": "",
+        "service": "Haircut",
+        "price": 150,
+        "barber": 1,
+        "barberName": "Lance",
+        "date": "2026-11-24",
+        "slot": "10:00",
+        "status": "Approved",
+        "createdAt": "2026-11-23T09:00:00+08:00"
+    },
+    {
+        "ref": "BB-DEMO-0002",
+        "uid": 2,
+        "name": "Juan Dela Cruz",
+        "phone": "09171234567",
+        "notes": "",
+        "service": "Haircut + Shave",
+        "price": 250,
+        "barber": 2,
+        "barberName": "Joshua",
+        "date": "2026-11-24",
+        "slot": "14:00",
+        "status": "Pending",
+        "createdAt": "2026-11-23T09:05:00+08:00"
+    }
+]
